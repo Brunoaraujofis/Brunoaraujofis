@@ -1,6 +1,6 @@
 ### Hi there I'm Bruno Araújo👋
 
-- 🎓 Atualmente eu sou mestrando em Física na Universidade Estadual de Londrina, faço mestra na área de Física de Partículas e Campos com ênfase em Física de Neutrinos.
+- 🎓 Atualmente eu sou mestrando em Física na Universidade Estadual de Londrina, faço mestrado na área de Física de Partículas e Campos com ênfase em Física de Neutrinos.
 - 🌱 Meu trabalho atual no mestrado tem ênfoque no uso de Python para fazer tratamento estatísticos de experimentos em física de neutrinos. Portanto, estou estudando estatística e analise de dados em Python. Além disso, se me sobrar tempo para estudar tenho interesse em aprender um pouco de JavaScrip/React.
 - 👯 Tenho interesse em colaborar em projetos de analise de dados. Contudo ainda sou iniciante na área (❁´◡`❁).  
 
