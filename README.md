@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there I'm Bruno Araújo👋
 
-<!--
-**Brunoaraujofis/Brunoaraujofis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Atualmente eu sou mestrando em Física na Universidade Estadual de Londrina, faço mestra na área de Física de Partículas e Campos com ênfase em Física de Neutrinos.
+- 🌱 Meu trabalho atual no mestrado tem ênfoque no uso de Python para fazer tratamento estatísticos de experimentos em física de neutrinos. Portanto, estou estudando estatística e analise de dados em Python. Além disso, se me sobrar tempo para estudar tenho interesse em aprender um pouco de JavaScrip/React.
+- 👯 Tenho interesse em colaborar em projetos de analise de dados. Contudo ainda sou iniciante na área (❁´◡`❁).  
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <a href="https://github.com/Brunoaraujofis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunoaraujofis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoaraujofis&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/Brunoaraujofis/Brunoaraujofis/blob/main/screenshots/image.jpg">
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/T87q4gPM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brunoaraujo.fis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/Brunoaraujofis/Brunoaraujofis/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
