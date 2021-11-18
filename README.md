@@ -1,7 +1,7 @@
 ### Hi there I'm Bruno Araújo👋
 
 - 🎓 Atualmente eu sou mestrando em Física na Universidade Estadual de Londrina, faço mestrado na área de Física de Partículas e Campos com ênfase em Física de Neutrinos.
-- 🌱 Meu trabalho atual no mestrado tem enfoque no uso de Python para fazer tratamento estatísticos de experimentos em física de neutrinos. Portanto, estou estudando estatística e analise de dados em Python. Além disso, se me sobrar tempo para estudar tenho interesse em aprender um pouco de JavaScrip/React.
+- 🌱 Meu trabalho atual no mestrado tem enfoque no uso de Python para fazer tratamento de dados em experimentos de física de neutrinos. Portanto, estou estudando estatística e analise de dados em Python. Além disso, se me sobrar tempo para estudar tenho interesse em aprender um pouco de JavaScrip/React.
 - 👯 Tenho interesse em colaborar em projetos de analise de dados. Contudo ainda sou iniciante na área (❁´◡`❁).  
 
 ##
@@ -22,7 +22,7 @@
  
 <div> 
  <a href="https://discord.gg/T87q4gPM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brunoaraujo.fis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brunoaraujo.fis@uel.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Brunoaraujofis/Brunoaraujofis/blob/output/github-contribution-grid-snake.svg)
  
