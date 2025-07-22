@@ -1,7 +1,8 @@
 ### Hi there I'm Bruno Araújo👋
 
-- 🎓 Atualmente eu sou mestrando em Física na Universidade Estadual de Londrina, faço mestrado na área de Física de Partículas e Campos com ênfase em Física de Neutrinos.
-- 🌱 Meu trabalho atual no mestrado tem enfoque no uso de Python para fazer tratamento de dados em experimentos de física de neutrinos. Portanto, estou estudando estatística e analise de dados em Python. Além disso, se me sobrar tempo para estudar tenho interesse em aprender um pouco de JavaScrip/React.
+- 🎓 Atualmente eu sou doutorando em Física na Universidade Estadual de Londrina, faço doutorado na área de Física de Partículas e Campos com ênfase em matéria condensada.
+- 🌱 Meu trabalho atual tem foco em física teórica, contúdo tenho muito interesse no uso de física computacional para tais propósitos, então estou dedicando um tempo ao estudo de programação via Wolfram Mathematica. Aqui poderá ser encontrado alguns cálculos e a criação de um biblioteca para o cálculo de regras de fusão de anyons.
+- 🌱 Meu do mestrado tem enfoque no uso de Python para fazer tratamento de dados em experimentos de física de neutrinos. Portanto, estou estudando estatística e analise de dados em Python. Além disso, se me sobrar tempo para estudar tenho interesse em aprender um pouco de JavaScrip/React.
 - 👯 Tenho interesse em colaborar em projetos de analise de dados. Contudo ainda sou iniciante na área (❁´◡`❁).  
 
 ##
